@@ -15,7 +15,6 @@ Usage :
 	split_android <imagefile>
 
 Example:
-
 $./split_android ../boot.img
 Found Magic!!!
 ===========INFO===================
@@ -27,7 +26,7 @@ load address =  [0x01000000]
 DTB file size = [   88064]   bytes
 load address =  [0x00F00000]      
 KTAGs address = [0x00000100]      
-(OPT)Product Name =  
+(OPT)Product Name =
 (OPT)Comand Line =  
 ==================================
 [kernel_boot.img] Written
